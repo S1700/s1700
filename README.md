@@ -7,4 +7,4 @@
 
 Language Stats             |  My Stats
 :-------------------------:|:-------------------------:
-![](github-readme-stats.vercel.app/api/top-langs/?username=samuel20354&langs_count=5&layout=compact&theme=dark&hide_title=true)  |  ![](https://github-readme-stats.vercel.app/api?username=samuel20354&theme=dark&hide_title=true&count_private=true&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel20354&langs_count=5&layout=compact&theme=dark&hide_title=true)  |  ![](https://github-readme-stats.vercel.app/api?username=samuel20354&theme=dark&hide_title=true&count_private=true&show_icons=true)
