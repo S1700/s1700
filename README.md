@@ -2,6 +2,9 @@
 
 #### Hi i'm Samuel.T and I just code random thing for fun and experience. I know `HTML`, `CSS`, `JS`, `Python`, a bit of `C+`, a lot of `bash`
 
+## Info:
+
+- 🖥️ Full stack developer
 - 🔭 I’m currently working on, nothing
 - 🌱 I’m currently learning, Python and C++
 - 🤔 I’m looking for help with, nothing (for now)
