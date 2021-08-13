@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### Hi i'm Samuel.T and I just code random thing for fun and experience. I know `HTML`, `CSS`, `JS`, `Python`, a bit of `C+`, a lot of `bash`
+#### Hi i'm Samuel.T and I just code random thing for fun and experience. I know `HTML`, `CSS`, `JS`, `Python`, a bit of `C++`, a lot of `bash`
 
 ## Info:
 
