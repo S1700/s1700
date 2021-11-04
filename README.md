@@ -7,7 +7,6 @@
 - 🖥️ Full stack developer
 - 🔭 I’m currently working on, nothing
 - 🌱 I’m currently learning, Python and C++
-- 🤔 I’m looking for help with, nothing (for now)
 - 💬 Ask me about, anything 
 
 ## Stats:
