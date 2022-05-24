@@ -5,8 +5,8 @@
 ## Info:
 
 - 🖥️ Full stack developer
-- 🔭 I’m currently working on, nothing
-- 🌱 I’m currently learning, Python and C++
+- 🔭 I’m currently working on, S1700.github.io
+- 🌱 I’m currently learning, Python
 - 💬 Ask me about, anything 
 
 ## Stats:
